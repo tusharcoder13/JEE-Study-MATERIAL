@@ -1,7 +1,9 @@
-Hello
-This site is designed in very simple way to get the short notes for JEE preparation.
+# 📘 JEE Study Material
 
-It contains 3 sections Physics, Chemistry and Mathematics.
-Under this sections the chapters are listed you can simply view them  or you can also download it to your google drive.
+A well-organized repository containing important study notes, short formulas, and resources for JEE aspirants. This project is aimed at helping students access concise and reliable material for Physics, Chemistry, and Mathematics preparation.
 
-I hope it will help the students for thier last moment revision for exam JEE.
+## 🎯 Purpose
+
+To provide quick revision notes and essential formulas in a neat and accessible format for JEE Mains & Advanced candidates.
+
+

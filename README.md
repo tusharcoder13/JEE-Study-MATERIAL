@@ -7,6 +7,6 @@ A well-organized repository containing important study notes, short formulas, an
 To provide quick revision notes and essential formulas in a neat and accessible format for JEE Mains & Advanced candidates.
 
 
-Fuck Fuck Fuck 
+Fuck Fuck 
 
 
